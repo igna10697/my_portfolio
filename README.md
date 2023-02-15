@@ -49,8 +49,11 @@ My portfolio is a project of creating my portfolio website
 
 - **[Web friendly]**
 - **[Visual Design]**
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 5f692c60be452417ac879f5b0c1c5775b9c6a9d7
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
