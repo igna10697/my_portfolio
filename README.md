@@ -55,8 +55,6 @@ My portfolio is a project of creating my portfolio website
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [file:///home/ignatius/Documents/Microverse%20Projects/my_portfolio/index.html]
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
