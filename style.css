@@ -4,14 +4,7 @@
   width: 375px;
   height: 718px;
   margin-left: 20px;
-}
-
-.background {
-  position: absolute;
-  width: 462px;
-  height: 587.15px;
-  left: -34px;
-  top: 104px;
+  background-image: url('/images/header-shapes mobile@2x.png');
 }
 
 .nav {
@@ -20,9 +13,9 @@
   justify-content: space-between;
 }
 
-.nav h1 {
+.nav a {
   color: #6070ff;
-  font-family: 'Poppins' Arial, Verdana, Tahoma, sans-serif;
+  font-family: var(--font-family);
   font-style: normal;
   font-weight: 700px;
   font-size: 18px;
@@ -34,10 +27,14 @@
   height: 12px;
 }
 
-.greetings {
+.headline {
   display: flex;
+  flex-direction: column;
   justify-content: center;
-  font-family: 'Poppins' Arial, Verdana, Tahoma, sans-serif;
+}
+
+.greetings {
+  font-family: var(--font-family);
   font-style: normal;
   font-weight: 700px;
   font-size: 50px;
@@ -49,11 +46,9 @@
 }
 
 .welcome-message {
-  display: flex;
   width: 327px;
   height: 146px;
-  justify-content: center;
-  font-family: 'Poppins' Arial, Verdana, Tahoma, sans-serif;
+  font-family: var(--font-family);
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -62,7 +57,7 @@
 }
 
 .heading-1 {
-  font-family: 'Poppins' Arial, Verdana, Tahoma, sans-serif;
+  font-family: var(--font-family);
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -77,4 +72,8 @@
   width: 375px;
   height: 540px;
   padding-left: 0;
+}
+
+:root {
+  --font-family: 'Poppins' arial, verdana, tahoma, sans-serif;
 }
