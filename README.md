@@ -50,10 +50,13 @@ My portfolio is a project of creating my portfolio website
 - **[Web friendly]**
 - **[Visual Design]**
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 =======
 >>>>>>> 5f692c60be452417ac879f5b0c1c5775b9c6a9d7
+=======
+>>>>>>> ab0185f4c39e56491cd0bff656c547c7e4f07d9b
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
