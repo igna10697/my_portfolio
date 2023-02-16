@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Poppins:wght@400;500&display=swap');
 
-@media only screen and (min-width:375px){
+@media only screen and (min-width: 375px) {
   .header-container {
     display: flex;
     flex-direction: column;
@@ -10,13 +10,13 @@
     margin-right: 24px;
     background-image: url('images/header-shapes mobile@2x.png');
   }
-  
+
   .nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
   }
-  
+
   .nav a {
     color: #6070ff;
     font-family: var(--font-family);
@@ -25,18 +25,18 @@
     font-size: 18px;
     line-height: 20px;
   }
-  
+
   .nav img {
     width: 18px;
     height: 12px;
   }
-  
+
   .headline {
     display: flex;
     flex-direction: column;
     justify-content: center;
   }
-  
+
   .greetings {
     font-family: var(--font-family);
     font-style: normal;
@@ -49,9 +49,8 @@
     width: 327px;
     height: 150px;
     margin-top: 100px;
-    
   }
-  
+
   .welcome-message {
     width: 327px;
     height: 150px;
@@ -62,7 +61,7 @@
     line-height: 24px;
     color: #344563;
   }
-  
+
   .heading-1 {
     font-family: var(--font-family);
     font-style: normal;
@@ -72,7 +71,7 @@
     color: #7f8cff;
     height: 24px;
   }
-  
+
   .icon-bar {
     display: flex;
     gap: 20px;
@@ -81,13 +80,13 @@
     height: 540px;
     padding-left: 0;
   }
-  
+
   :root {
     --font-family: 'Poppins';
   }
 }
- 
-@media only screen and (min-width: 768px){
+
+@media only screen and (min-width: 768px) {
   .header-container {
     display: flex;
     flex-direction: column;
@@ -97,13 +96,13 @@
     margin-right: 24px;
     background-image: url('images/header-shapes mobile@2x.png');
   }
-  
+
   .nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
   }
-  
+
   .nav a {
     color: #6070ff;
     font-family: var(--font-family);
@@ -112,18 +111,18 @@
     font-size: 18px;
     line-height: 20px;
   }
-  
+
   .nav img {
     width: 18px;
     height: 12px;
   }
-  
+
   .headline {
     display: flex;
     flex-direction: column;
     justify-content: center;
   }
-  
+
   .greetings {
     font-family: var(--font-family);
     font-style: normal;
@@ -136,9 +135,8 @@
     width: 327px;
     height: 150px;
     margin-top: 100px;
-    
   }
-  
+
   .welcome-message {
     width: 327px;
     height: 150px;
@@ -149,7 +147,7 @@
     line-height: 24px;
     color: #344563;
   }
-  
+
   .heading-1 {
     font-family: var(--font-family);
     font-style: normal;
@@ -159,7 +157,7 @@
     color: #7f8cff;
     height: 24px;
   }
-  
+
   .icon-bar {
     display: flex;
     gap: 20px;
@@ -168,12 +166,8 @@
     height: 540px;
     padding-left: 0;
   }
-  
+
   :root {
     --font-family: 'Poppins';
   }
-
 }
-
-
-
